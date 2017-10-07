@@ -7,7 +7,7 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 * Symbol overrides
 * Layer styles
 
-## Command Quick Reference 
+## Command Quick Reference
 1. `npm run docs` Runs documentation in a web browser
 2. `npm run sketch` Opens the original source .sketch file
 2. `npm run update` Updates to the latest version
@@ -20,7 +20,7 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 ## Installing
 There are two ways to start using the UI kit. Installing via the command line is recommended - it will install directly into your sketch templates folder.
 
-### Install with command line (recommended)
+### Install as a sketch template (recommended)
 
 Clone the repo into your sketch templates folder.
 ```
@@ -30,13 +30,18 @@ Open sketch and create a document using "New from template" or run
 ```
 npm run sketch
 ```
-
+### Install to any directory
+In a directory of your choice, run
+```
+git clone git@github.com:gthierman/ui-kit.git && cd ui-kit
+```
+Run `npm run new` to open a new untitled file saved to your desktop.
 
 ### Download the source
 
 Download the source in the "Clone or download" menu.
 Open the file in sketch and save it as a template.<br>
-Now create a document using "New from template".
+Now create documents using "New from template".
 
 ## Updating
 Switch to the project directory and run
