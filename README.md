@@ -29,12 +29,19 @@ Open the file in sketch and save it as a template.<br>
 Now create a document using "New from template".
 
 ## Updating
-From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`), run `npm run update` in the command line.
+From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`), run
+```'
+npm run update
+```
 
 ## Run the docs
   The docs contain design guidelines and other instructions on how to use the UI kit.
 
-  From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`). A browser window will open and the docs will appear after a few seconds.
+  From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`) run
+  ```
+  npm start docs
+  ```
+ A browser window will open and the docs will appear after a few seconds.
 
 <!-- ## Symbol overrides
 <img src="images/symbol-overrides.png" width="808"> -->
