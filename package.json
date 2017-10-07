@@ -1,0 +1,23 @@
+{
+  "name": "clio-ui-kit",
+  "version": "1.0.0",
+  "description": "Sketch assets and documentation for the product development team",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs": "cd docs && gitbook serve",
+    "update": "git fetch && git pull"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gthierman/ui-kit.git"
+  },
+  "author": "Geoff Thierman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gthierman/ui-kit/issues"
+  },
+  "homepage": "https://github.com/gthierman/ui-kit#readme"
+}
