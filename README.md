@@ -7,8 +7,6 @@ The Clio UI Kit
 * Gitbook - run `npm install gitbook-cli -g` from the command line
 * npm - [Installing npm](https://www.npmjs.com/get-npm)
 
-Sketch is required to open the .sketch file. Git, gitbook, and npm are required if you want to manage the UI kit via the command line.
-
 #### Install with command line
 This assumes you are setup on git.
 
@@ -22,23 +20,10 @@ Open sketch and create a document using "New from template".
 
 Click the download zip link.
 
-
-## Run the kit with 2 commands
+## Manage the UI Kit
 1. `npm run docs` Gets the latest version of the UI kit
 2. `npm run sketch` runs the documentation
 2. `npm run update` Updates to the latest version
-
-<!-- #### `ui-kit-update`
-1. Open the console
-2. Enter the command "ui-kit"
-3. Enter the command "git pull"
-4. Open a "New from template" in sketch. The file should reflect the latest. -->
-
-#### `ui-kit-docs`
-1. Install gitbooks with `npm install gitbook-cli -g`
-1. Open the console.
-2. In new console tab or window, enter the command "ui-kit-docs"
-3. Wait for the docs to boot up and visit http://localhost:4000
 
 ## Plugins
 Links to essential plugins will go here.
