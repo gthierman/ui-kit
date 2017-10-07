@@ -26,7 +26,11 @@ Clone the repo into your sketch templates folder.
 ```
 cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ && git clone git@github.com:gthierman/ui-kit.git && cd ui-kit
 ```
- Open sketch and create a document using "New from template", or run `npm run sketch` to open the source file.
+Open sketch and create a document using "New from template" or run
+```
+npm run sketch
+```
+
 
 ### Download the source
 
@@ -35,19 +39,22 @@ Open the file in sketch and save it as a template.<br>
 Now create a document using "New from template".
 
 ## Updating
-From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`), run
-```'
+Switch to the project directory and run
+```
+alias ui-kit = "~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ui-kit"
+cd ui-kit
 npm run update
 ```
 
 ## Run the docs
-  The docs contain design guidelines and other instructions on how to use the UI kit.
+The docs contain design guidelines and other instructions on how to use the UI kit.
 
-  From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`) run
-  ```
-  npm run docs
-  ```
- A browser window will open and the docs will appear after a few seconds.
+ run
+```
+cd ui-kit
+npm run docs
+```
+A browser window will open and the docs will appear after a few seconds.
 
 <!-- ## Symbol overrides
 <img src="images/symbol-overrides.png" width="808"> -->
