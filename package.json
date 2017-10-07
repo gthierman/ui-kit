@@ -7,8 +7,9 @@
     "doc": "docs"
   },
   "scripts": {
-    "docs": "cd docs && gitbook serve",
-    "update": "git fetch && git pull"
+    "docs": "cd docs && open http://localhost:4000 && gitbook serve",
+    "update": "git fetch && git pull",
+    "sketch": "open -a Sketch clio-ui-kit.sketch"
   },
   "repository": {
     "type": "git",
