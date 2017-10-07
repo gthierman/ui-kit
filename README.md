@@ -4,10 +4,10 @@
 
 ## Plugins
 Links to essential plugins will go here.
-### Essential
+#### Essential
 * Relabel button
 
-### Useful
+#### Useful
 * Symbol organizer
 
 ## Symbol overrides
