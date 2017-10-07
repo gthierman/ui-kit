@@ -1,5 +1,5 @@
 # Clio UI kit
-The Clio UI Kit
+The Clio UI Kit is a sketch file containing all the assets used to design product at Clio. It also contains documentation and design guidelines, and comes with commands for running and maintaining the files.
 
 ## Command Quick Reference
 1. `npm run docs` Runs documentation in a web browser
