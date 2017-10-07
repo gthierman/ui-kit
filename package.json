@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/gthierman/ui-kit/issues"
   },
-  "homepage": "https://github.com/gthierman/ui-kit#readme"
+  "homepage": "https://github.com/gthierman/ui-kit#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
