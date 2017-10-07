@@ -15,7 +15,7 @@ The Clio UI Kit
 ## Installing
 There are two ways to start using the UI kit. Installing via the command line is recommended - it will install directly into your sketch templates folder.
 
-### Install with command line
+### Install with command line (recommended)
 
 Clone the repo into your sketch templates folder.
 ```
