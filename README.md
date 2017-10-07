@@ -21,7 +21,9 @@ cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ && git c
 ### Download the source
 
 Download the source in the "Clone or download" menu.
-![Download the source](images/download-source.png)
+
+<img src="images/download-source.png" width="546">
+
 Open the file in sketch and save it as a template.<br>
 Now create a document using "New from template".
 
@@ -39,4 +41,4 @@ Links to essential plugins will go here.
 * Symbol organizer
 
 ## Symbol overrides
-![Symbol overrides](images/symbol-overrides.png)
+<img src="images/symbol-overrides.png" width="808">
