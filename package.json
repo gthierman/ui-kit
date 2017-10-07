@@ -9,7 +9,9 @@
   "scripts": {
     "docs": "cd docs && open http://localhost:4000 && gitbook serve",
     "update": "git fetch && git pull",
-    "sketch": "open -a Sketch clio-ui-kit.sketch"
+    "sketch-source": "open -a Sketch clio-ui-kit.sketch",
+    "new": "cp -i clio-ui-kit.sketch ~/Desktop/untitled.sketch && open -a Sketch ~/Desktop/untitled.sketch"
+
   },
   "repository": {
     "type": "git",
