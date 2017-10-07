@@ -26,15 +26,16 @@ cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ && git c
 ### Download the source
 
 Download the source in the "Clone or download" menu.
-<!-- <img src="images/download-source.png" width="546"> -->
-<br>Open the file in sketch and save it as a template.<br>
+Open the file in sketch and save it as a template.<br>
 Now create a document using "New from template".
 
 ## Updating
-Run `cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ui-kit && npm run update` from the command line.
+From the project folder, run `npm run update` in the command line.
 
 ## Run the docs
-Run `cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ui-kit && npm run docs` from the command line.
+  The docs contain design guidelines and other instructions on how to use the UI kit.
+
+  Run `npm run docs` from the command line. A browser window will open and the docs will appear after a few seconds.
 
 <!-- ## Symbol overrides
 <img src="images/symbol-overrides.png" width="808"> -->
