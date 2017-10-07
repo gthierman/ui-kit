@@ -9,8 +9,8 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 ## Dependencies
 * Sketch app
 * Git - [Installing Git](https://www.atlassian.com/git/tutorials/install-git)
-* Gitbook - run `npm install gitbook-cli -g` from the command line
 * npm - [Installing npm](https://www.npmjs.com/get-npm)
+* Gitbook - run `npm install gitbook-cli -g` from the command line
 
 ## Installing
 There are two ways to start using the UI kit. Installing via the command line is recommended - it will install directly into your sketch templates folder.
