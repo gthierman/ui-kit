@@ -39,7 +39,7 @@ npm run update
 
   From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`) run
   ```
-  npm start docs
+  npm run docs
   ```
  A browser window will open and the docs will appear after a few seconds.
 
