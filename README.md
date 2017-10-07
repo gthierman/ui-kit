@@ -8,7 +8,7 @@ The Clio UI Kit
 
 ## Dependencies
 * Sketch app
-* Git - [Installing gitbooks](https://www.atlassian.com/git/tutorials/install-git)
+* Git - [Installing Git](https://www.atlassian.com/git/tutorials/install-git)
 * Gitbook - run `npm install gitbook-cli -g` from the command line
 * npm - [Installing npm](https://www.npmjs.com/get-npm)
 
@@ -26,27 +26,15 @@ cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ && git c
 ### Download the source
 
 Download the source in the "Clone or download" menu.
-
-<img src="images/download-source.png" width="546">
-
-Open the file in sketch and save it as a template.<br>
+<!-- <img src="images/download-source.png" width="546"> -->
+<br>Open the file in sketch and save it as a template.<br>
 Now create a document using "New from template".
 
-## Maintaining & updating
+## Updating
+Run `cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ui-kit && npm run update` from the command line.
 
-### Command line
-2. `npm run update` Updates to the latest version
+## Run the docs
+Run `cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ui-kit && npm run docs` from the command line.
 
-### Manually
-2. `npm run update` Updates to the latest version
-
-## Plugins
-Links to essential plugins will go here.
-#### Essential
-* Relabel button
-
-#### Useful
-* Symbol organizer
-
-## Symbol overrides
-<img src="images/symbol-overrides.png" width="808">
+<!-- ## Symbol overrides
+<img src="images/symbol-overrides.png" width="808"> -->
