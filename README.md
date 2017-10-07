@@ -1,13 +1,18 @@
 # Clio UI kit
 The Clio UI Kit
 
+## Command Quick Reference
+1. `npm run docs` Runs documentation in a web browser
+2. `npm run sketch` Opens the original source .sketch file
+2. `npm run update` Updates to the latest version
+
 ## Dependencies
 * Sketch app
 * Git - [Installing gitbooks](https://www.atlassian.com/git/tutorials/install-git)
 * Gitbook - run `npm install gitbook-cli -g` from the command line
 * npm - [Installing npm](https://www.npmjs.com/get-npm)
 
-## Getting started
+## Installing
 There are two ways to start using the UI kit. Installing via the command line is recommended - it will install directly into your sketch templates folder.
 
 ### Install with command line
@@ -27,9 +32,12 @@ Download the source in the "Clone or download" menu.
 Open the file in sketch and save it as a template.<br>
 Now create a document using "New from template".
 
-## Manage the UI Kit with command line
-1. `npm run docs` Runs documentation in a web browser
-2. `npm run sketch` Opens the original source .sketch file
+## Maintaining & updating
+
+### Command line
+2. `npm run update` Updates to the latest version
+
+### Manually
 2. `npm run update` Updates to the latest version
 
 ## Plugins
