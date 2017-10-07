@@ -7,7 +7,7 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 * Symbol overrides
 * Layer styles
 
-## Command Quick Reference
+## Command Quick Reference 
 1. `npm run docs` Runs documentation in a web browser
 2. `npm run sketch` Opens the original source .sketch file
 2. `npm run update` Updates to the latest version
