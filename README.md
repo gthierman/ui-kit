@@ -10,7 +10,6 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 * Sketch app
 * Git - [Installing Git](https://www.atlassian.com/git/tutorials/install-git)
 * npm - [Installing npm](https://www.npmjs.com/get-npm)
-* Gitbook - run `npm install gitbook-cli -g` from the command line
 
 ## Installing
 There are two ways to start using the UI kit. Installing via the command line is recommended - it will install directly into your sketch templates folder.
@@ -30,12 +29,12 @@ Open the file in sketch and save it as a template.<br>
 Now create a document using "New from template".
 
 ## Updating
-From the project folder, run `npm run update` in the command line.
+From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`), run `npm run update` in the command line.
 
 ## Run the docs
   The docs contain design guidelines and other instructions on how to use the UI kit.
 
-  Run `npm run docs` from the command line. A browser window will open and the docs will appear after a few seconds.
+  From the project directory (most likely `~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`). A browser window will open and the docs will appear after a few seconds.
 
 <!-- ## Symbol overrides
 <img src="images/symbol-overrides.png" width="808"> -->
