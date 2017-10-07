@@ -1,11 +1,15 @@
 # Clio UI kit
 
 ## Getting started
-This assumes you are setup on git and have the aliases added to your `.bash_profile`
-1. Open the console.
-2. Enter `cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/`
-3. Enter `git clone git@github.com:gthierman/ui-kit.git` to clone the repository into your templates folder.
-4. Open sketch and open "New from template"
+
+#### Install with command line
+This assumes you are setup on git.
+2. Clone the repo into your sketch templates folder.
+```
+cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ && git clone git@github.com:gthierman/ui-kit.git && cd ui-kit
+```
+
+#### Download the source
 
 ## Run the kit with 2 commands
 1. `ui-kit-update` Gets the latest version of the UI kit
