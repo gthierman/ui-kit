@@ -8,9 +8,10 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 * Layer styles
 
 ## Command Quick Reference
+2. `npm run new` Opens a copy of the ui kit and saves it to desktop.
 1. `npm run docs` Runs documentation in a web browser
-2. `npm run sketch` Opens the original source .sketch file
 2. `npm run update` Updates to the latest version
+2. `npm run source` Opens the original source .sketch file
 
 ## Dependencies
 * Sketch app
@@ -26,22 +27,27 @@ Clone the repo into your sketch templates folder.
 ```
 cd ~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ && git clone git@github.com:gthierman/ui-kit.git && cd ui-kit
 ```
-Open sketch and create a document using "New from template" or run
-```
-npm run sketch
-```
 ### Install to any directory
 In a directory of your choice, run
 ```
 git clone git@github.com:gthierman/ui-kit.git && cd ui-kit
 ```
-Run `npm run new` to open a new untitled file saved to your desktop.
 
 ### Download the source
 
 Download the source in the "Clone or download" menu.
-Open the file in sketch and save it as a template.<br>
-Now create documents using "New from template".
+Open the file in sketch and save it as a template –
+create documents using "New from template".
+
+## Start a new project
+Run
+```
+npm run new
+```
+This saves a copy of the ui kit named `untitled.sketch` to your desktop and opens sketch automatically. Rename it and move it to your team's file system
+
+If you installed the UI kit as a sketch template, you can open a new project in `File > New from Template`
+<img src="images/new-from-template.png" width="888">
 
 ## Updating
 Switch to the project directory and run
