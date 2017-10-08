@@ -82,7 +82,7 @@ If you installed the UI kit as a sketch template, you can open a new project in 
 cd ui-kit
 npm run update
 ```
-<p style="color: #E41B28;">Updating will overwrite any changes made to the source file clio-ui-kit.sketch</p>
+<p style="color: #E41B2;">Updating will overwrite any changes made to the source file clio-ui-kit.sketch</p>
 
 Run `npm run new` to open a fresh project containing the updates.
 
