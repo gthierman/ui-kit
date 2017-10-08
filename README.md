@@ -3,10 +3,10 @@
 **Table of Contents**
 
 - [Clio UI kit](#clio-ui-kit)
-  - [Command Quick Reference](#command-quick-reference)
+  - [Quick Reference](#quick-reference)
   - [Dependencies](#dependencies)
   - [Installing](#installing)
-    - [Install as a sketch template (recommended)](#install-as-a-sketch-template-recommended)
+    - [Install as a sketch template](#install-as-a-sketch-template)
     - [Install to any directory](#install-to-any-directory)
     - [Download the source](#download-the-source)
   - [Start a new project](#start-a-new-project)
@@ -26,7 +26,7 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 * Create new projects, stay updated, and view documentation with a few simple commands
 
 
-## Command Quick Reference
+## Quick Reference
 2. `npm run new` Opens a copy of the ui kit and saves it to desktop.
 1. `npm run app-screens` Opens clio-app-screens.sketch.
 1. `npm run docs` Runs documentation in a web browser.
@@ -41,7 +41,7 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 ## Installing
 There are two ways to start using the UI kit. Installing via the command line is recommended - it will install directly into your sketch templates folder.
 
-### Install as a sketch template (recommended)
+### Install as a sketch template
 
 Clone the repo into your sketch templates folder.
 ```
