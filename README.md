@@ -39,6 +39,8 @@ Download the source in the "Clone or download" menu.
 Open the file in sketch and save it as a template –
 create documents using "New from template".
 
+<img src="images/download-source.png" width="888">
+
 ## Start a new project
 Run
 ```
@@ -56,6 +58,7 @@ alias ui-kit = "~/Library/Application\ Support/com.bohemiancoding.sketch3/Templa
 cd ui-kit
 npm run update
 ```
+Run `npm run new` to open a fresh project containing the updates.
 
 ## Run the docs
 The docs contain design guidelines and other instructions on how to use the UI kit.
