@@ -41,9 +41,11 @@ git clone git@github.com:gthierman/ui-kit.git && cd ui-kit
 
 ## Start a new project
 ```
+cd ui-kit
 npm run new
 ```
-This saves a copy of the ui kit named `untitled.sketch` to your desktop and opens sketch automatically. Rename it and move it to your team's file system
+This saves a copy of the ui kit named `untitled.sketch` to your desktop and opens sketch automatically. Rename and move it using the document title.
+<img src="images/rename.png" width="888">
 
 If you installed the UI kit as a sketch template, you can open a new project in `File > New from Template`
 <img src="images/new-from-template.png" width="888">
