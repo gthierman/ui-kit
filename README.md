@@ -78,11 +78,11 @@ If you installed the UI kit as a sketch template, you can open a new project in 
 <img src="images/new-from-template.png" width="888">
 
 ## Updating
-Switch to the project directory and run
 ```
 cd ui-kit
 npm run update
 ```
+<span style="color: #E41B28;">Updating will overwrite any changes made to the source file `clio-ui-kit.sketch`</span></br>
 Run `npm run new` to open a fresh project containing the updates.
 
 ## Run the docs
