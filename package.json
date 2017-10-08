@@ -7,11 +7,11 @@
     "doc": "docs"
   },
   "scripts": {
+    "new": "cp -i clio-ui-kit.sketch ~/Desktop/untitled.sketch && open -a Sketch ~/Desktop/untitled.sketch",
+    "app-screens": "open -a Sketch clio-app-screens.sketch",
     "docs": "cd docs && open http://localhost:4000 && gitbook serve",
-    "update": "git fetch && git pull",
-    "sketch-source": "open -a Sketch clio-ui-kit.sketch",
-    "new": "cp -i clio-ui-kit.sketch ~/Desktop/untitled.sketch && open -a Sketch ~/Desktop/untitled.sketch"
-
+    "update": "git pull",
+    "source": "open -a Sketch clio-ui-kit.sketch"
   },
   "repository": {
     "type": "git",

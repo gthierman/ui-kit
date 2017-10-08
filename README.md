@@ -6,13 +6,15 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 **Features**
 * Symbol overrides
 * Layer styles
-* Create new projects, stay updated, and view documentation with a few simple commands.
+* Create new projects, stay updated, and view documentation with a few simple commands
+
 
 ## Command Quick Reference
 2. `npm run new` Opens a copy of the ui kit and saves it to desktop.
-1. `npm run docs` Runs documentation in a web browser
-2. `npm run update` Updates to the latest version
-2. `npm run source` Opens the original source .sketch file
+1. `npm run app-screens` Opens clio-app-screens.sketch.
+1. `npm run docs` Runs documentation in a web browser.
+2. `npm run update` Updates to the latest version.
+2. `npm run source` Opens the original source .sketch file.
 
 ## Dependencies
 * Sketch app
@@ -53,7 +55,6 @@ If you installed the UI kit as a sketch template, you can open a new project in 
 ## Updating
 Switch to the project directory and run
 ```
-alias ui-kit = "~/Library/Application\ Support/com.bohemiancoding.sketch3/Templates/ui-kit"
 cd ui-kit
 npm run update
 ```
