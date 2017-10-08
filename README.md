@@ -82,19 +82,16 @@ If you installed the UI kit as a sketch template, you can open a new project in 
 cd ui-kit
 npm run update
 ```
-<span style="color: #E41B28;">Updating will overwrite any changes made to the source file `clio-ui-kit.sketch`</span></br>
+<span style="color: #E41B28;">Updating will overwrite any changes made to the source file clio-ui-kit.sketch</span></br>
 
 Run `npm run new` to open a fresh project containing the updates.
 
 ## Run the docs
-The docs contain design guidelines and other instructions on how to use the UI kit.
-
- run
 ```
 cd ui-kit
 npm run docs
 ```
-A browser window will open and the docs will appear after a few seconds.
+The docs contain design guidelines and other instructions on how to use the UI kit. A browser window will open and the docs will appear after a few seconds.
 
 <!-- ## Symbol overrides
 <img src="images/symbol-overrides.png" width="808"> -->
