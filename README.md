@@ -6,7 +6,7 @@
   - [Quick Reference](#quick-reference)
   - [Dependencies](#dependencies)
   - [Installing](#installing)
-    - [Install as a sketch template](#install-as-a-sketch-template)
+    - [Install as a sketch template (recommended)](#install-as-a-sketch-template-recommended)
     - [Install to any directory](#install-to-any-directory)
     - [Download the source](#download-the-source)
   - [Start a new project](#start-a-new-project)
