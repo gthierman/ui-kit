@@ -15,7 +15,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-<span style="color:#E41B28;">Updating will overwrite any changes made to the source file clio-ui-kit.sketch</span>
 # Clio UI kit
 The Clio UI Kit is a sketch file containing all the assets used to design product at Clio. It also contains documentation and design guidelines, and comes with commands for running and maintaining the files.
 
