@@ -83,6 +83,7 @@ cd ui-kit
 npm run update
 ```
 <span style="color: #E41B28;">Updating will overwrite any changes made to the source file `clio-ui-kit.sketch`</span></br>
+
 Run `npm run new` to open a fresh project containing the updates.
 
 ## Run the docs
