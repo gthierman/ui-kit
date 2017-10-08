@@ -7,7 +7,22 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 * Symbol overrides
 * Layer styles
 * Create new projects, stay updated, and view documentation with a few simple commands
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
 
+- [Clio UI kit](#clio-ui-kit)
+  - [Command Quick Reference](#command-quick-reference)
+  - [Dependencies](#dependencies)
+  - [Installing](#installing)
+    - [Install as a sketch template (recommended)](#install-as-a-sketch-template-recommended)
+    - [Install to any directory](#install-to-any-directory)
+    - [Download the source](#download-the-source)
+  - [Start a new project](#start-a-new-project)
+  - [Updating](#updating)
+  - [Run the docs](#run-the-docs)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Command Quick Reference
 2. `npm run new` Opens a copy of the ui kit and saves it to desktop.
