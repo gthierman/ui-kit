@@ -27,7 +27,7 @@ The Clio UI Kit is a sketch file containing all the assets used to design produc
 
 
 ## Quick Reference
-2. `npm run new` Opens a copy of the ui kit and saves it to desktop.
+2. `npm run new` saves a copy of the ui kit named `untitled.sketch` to your desktop and opens sketch automatically
 1. `npm run app-screens` Opens clio-app-screens.sketch.
 1. `npm run docs` Runs documentation in a web browser.
 2. `npm run update` Updates to the latest version.
